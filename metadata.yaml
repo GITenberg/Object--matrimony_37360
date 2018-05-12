@@ -1,0 +1,33 @@
+_repo: Object--matrimony_37360
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Glass, Montague
+    aliases:
+    - Glass, Montague Marsden
+    - Marsden, Montague Glass
+    birthdate: 1877
+    deathdate: 1934
+    gutenberg_agent_id: '7845'
+    url: http://www.gutenberg.org/2009/agents/7845
+    wikipedia: http://en.wikipedia.org/wiki/Montague_Glass
+description: ''
+gutenberg_issued: '2011-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37360'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcsh 'Businesspeople -- Fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Marriage -- Fiction'
+title: 'Object: matrimony'
+url: http://www.gutenberg.org/ebooks/37360
